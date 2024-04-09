@@ -8,5 +8,5 @@ Old-school raycasting engine
 
 
 ## grade
-110/100
+110/100<br>
 Collabed with Winstonallo: https://github.com/42-projects-abied-ch
